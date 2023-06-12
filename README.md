@@ -6,7 +6,7 @@ git init
 # Initialize Dvc 
 dvc init
 
-#Add repo to store the data
+# Add repo to store the data
 dvc remote add -d local ..\..\remote\
 
 # Add the data to the repo
